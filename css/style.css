@@ -1,0 +1,46 @@
+body
+{
+    background-color: #ababab; 
+}
+.menu
+{
+    height: 1000px;
+    background-color: black;
+    margin: 0px 0px;
+}
+.menu ul
+{
+    list-style: none;
+}
+.menu ul .option
+{
+    padding: 5px 50px;
+    background-color: black;
+    display: inline;
+}
+.section
+{
+    margin: 0px -12px;
+}
+.section img
+{
+    height: 400px;
+    width: 160%;
+}
+.section p
+{
+    width: 160%;
+}
+.sous-section
+{
+    display: flex;
+    width: 160%;
+}
+.sous-section img
+{
+    height: 400px;
+    width: 80%;
+}
+.footers{
+    width: 1200px;
+}
